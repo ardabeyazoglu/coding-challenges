@@ -39,12 +39,6 @@ P[K] ≤ Q[K], where 0 ≤ K < M;
 string S consists only of upper-case English letters A, C, G, T.
 */
 
-// you can write to stdout for debugging purposes, e.g.
-// print "this is a debug message\n";
-
-// you can write to stdout for debugging purposes, e.g.
-// print "this is a debug message\n";
-
 function solution($S, $P, $Q) {
     $results = [];
     $queries = count($P);
